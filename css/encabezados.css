@@ -1,0 +1,15 @@
+/*DOCUMENTO CSS*/
+body {background: #f8feff;}
+h1, h3{color: rgb(0, 140, 255);}
+h2, h4{color: rgba(0, 140, 255, 0.568);}
+h5{color: #0026ff; 
+    font-size: 3em; 
+    text-transform: uppercase;
+    text-shadow: 15px 15px 15px #89d2fc;}
+
+p { line-height: 1.5; }
+
+img {border: 20px; 
+     color: aqua;
+     box-shadow: 0px 0px 15px; color:black; 
+     iborder-radius: 8px;}
